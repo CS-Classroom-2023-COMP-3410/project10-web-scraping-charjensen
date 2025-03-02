@@ -1,0 +1,104 @@
+{
+  "events": [
+    {
+      "duTeam": "Denver University Women's Basketball",
+      "opponent": "South Dakota State",
+      "date": "2/27/2025"
+    },
+    {
+      "duTeam": "Denver University Men's Basketball",
+      "opponent": "Kansas City",
+      "date": "2/27/2025"
+    },
+    {
+      "duTeam": "Denver University Men's Tennis",
+      "opponent": "BYU",
+      "date": "2/28/2025"
+    },
+    {
+      "duTeam": "Denver University Women's Gymnastics",
+      "opponent": "Iowa State, (18) NC State",
+      "date": "2/28/2025"
+    },
+    {
+      "duTeam": "Denver University Men's Lacrosse",
+      "opponent": "Marist",
+      "date": "2/28/2025"
+    },
+    {
+      "duTeam": "Denver University Men's Ice Hockey",
+      "opponent": "St. Cloud State",
+      "date": "2/28/2025"
+    },
+    {
+      "duTeam": "Denver University Women's Basketball",
+      "opponent": "South Dakota",
+      "date": "3/1/2025"
+    },
+    {
+      "duTeam": "Denver University Women's Lacrosse",
+      "opponent": "#9 Maryland",
+      "date": "3/1/2025"
+    },
+    {
+      "duTeam": "Denver University Men's Basketball",
+      "opponent": "South Dakota State",
+      "date": "3/1/2025"
+    },
+    {
+      "duTeam": "Denver University Women's Tennis",
+      "opponent": "Kansas City",
+      "date": "3/1/2025"
+    },
+    {
+      "duTeam": "Denver University Men's Ice Hockey",
+      "opponent": "St. Cloud State",
+      "date": "3/1/2025"
+    },
+    {
+      "duTeam": "Denver University Women's Tennis",
+      "opponent": "Omaha",
+      "date": "3/2/2025"
+    },
+    {
+      "duTeam": "Denver University Men's Tennis",
+      "opponent": "#56 Utah",
+      "date": "3/2/2025"
+    },
+    {
+      "duTeam": "Denver University Men's Lacrosse",
+      "opponent": "Quinnipiac",
+      "date": "3/2/2025"
+    },
+    {
+      "duTeam": "Denver University Men's Soccer",
+      "opponent": "Colorado Rapids II",
+      "date": "3/2/2025"
+    },
+    {
+      "duTeam": "Denver University Women's Golf",
+      "opponent": "Round 1/2",
+      "date": "3/3/2025"
+    },
+    {
+      "duTeam": "Denver University Women's Golf",
+      "opponent": "Round 3",
+      "date": "3/4/2025"
+    },
+    {
+      "duTeam": "Denver University Skiing",
+      "opponent": "Giant Slalom",
+      "date": "3/5/2025"
+    },
+    {
+      "duTeam": "Denver University Women's Lacrosse",
+      "opponent": "Michigan",
+      "date": "3/5/2025"
+    },
+    {
+      "duTeam": "Denver University Women's Basketball",
+      "opponent": "#8 Omaha",
+      "date": "3/5/2025"
+    }
+  ]
+}
